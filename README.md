@@ -1,12 +1,7 @@
 ### Hi there 👋
 I'm Bilguun Ganzurkh! 👋
 
-I'm a passionate student at Toyohashi University of Technology, aspiring to become a software engineer with a focus on full-stack web application development.
-
-## About Me
-- 🎓 Studying at Toyohashi University of Technology
-- 💻 Aspiring Software Engineer
-- 🌐 Full Stack Web App Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+student+at+TUT;Aspiring+software+engineer)](https://git.io/typing-svg)
 
 ## Current Projects
 - 🌳 Working on a family tree note-taking website
