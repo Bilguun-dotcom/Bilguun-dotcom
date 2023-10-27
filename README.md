@@ -4,7 +4,7 @@ I'm Bilguun Ganzurkh! 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+student+at+TUT;Aspiring+software+engineer)](https://git.io/typing-svg)
 
 ## Current Projects
-- 🌳 Working on a family tree note-taking website
+- 🌳 Working on a family tree website
 - 🌐 Building full-stack websites on topics that interest me
 
 ## Skills and Technologies
